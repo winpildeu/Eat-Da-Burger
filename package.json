@@ -1,0 +1,33 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "A burger logger with MySQL, Express, Handlebars and a custom ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winpildeu/Eat-Da-Burger.git"
+  },
+  "keywords": [
+    "burger",
+    "mysql",
+    "node",
+    "express",
+    "handlebars",
+    "orm",
+    "routing"
+  ],
+  "author": "Winfield H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winpildeu/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/winpildeu/Eat-Da-Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
